@@ -5,7 +5,7 @@ node_modules/
 dist/
 
 # Ignorar archivo .env (archivos de configuración sensibles)
-.env
+serv.env
 
 # Ignorar archivos .DS_Store (archivos de sistema de macOS)
 
